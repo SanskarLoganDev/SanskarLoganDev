@@ -1,19 +1,120 @@
-<h1 align="center">Hi 👋, I'm Sanskar Vidyarthi</h1>
-<h3 align="center">Software Engineering graduate student at the University of Maryland with 2+ years of experience as a Software Developer at Accenture. Skilled in Python, Flask, REST APIs, and cloud platforms like AWS and GCP. Passionate about building impactful applications—ranging from data-driven tools to scalable web platforms. I’ve developed end-to-end projects integrating Docker, Terraform, SQL/NoSQL databases, and CI/CD pipelines. Currently a TA for MSML640 (Computer Vision), I enjoy collaborative environments and thrive on solving real-world problems through clean, efficient code. Always eager to learn, contribute, and innovate in fast-paced, mission-driven teams.</h3>
+# Hi, I’m Sanskar Vidyarthi 👋
+*M.Eng. Software Engineering @ University of Maryland (May 2026)*  
+**Software Engineer — Systems • Networking • Cloud/Observability**
 
-- 📫 How to reach me **sanskar.vidyarthi102@gmail.com**
+- I build back-end services, security automation, and network tooling.  
+- Comfortable across **Python** and **C/C++** on **Linux/Windows**, with cloud infra in **AWS/GCP**, **Terraform**, **Docker**, and **GitHub Actions**.  
+- Interested in **network test/observability**, **embedded basics**, and **production reliability**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanskar-vidyarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-vidyarthi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanskarlogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskarlogan" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🔎 Highlights
+- Shipped **20+ REST APIs** (Python/Flask), fixed **40+ defects**, and wrote **80+ PyTest** cases → higher reliability & maintainability.  
+- Built a serverless **CVE alerting** workflow (AWS Lambda/EventBridge/PostgreSQL) with idempotency → **3-hour detection SLA** and zero duplicate notifications.  
+- Deployed a GitHub App–based **secret scanner** (Lambda/SQS/Fargate/Gitleaks) with PR checks → **~60% reduction** in credential exposure; **~50%** less manual review.  
+- Provisioned **EKS via Terraform**, deployed **OpenTelemetry** with Helm, added CI/CD with rollback and **Prometheus/Alertmanager → Slack** → faster, auditable releases.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarlogandev&show_icons=true&locale=en&layout=compact" alt="sanskarlogandev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskarlogandev&show_icons=true&locale=en" alt="sanskarlogandev" /></p>
+## 🛠️ Tech Stack (short list for screeners)
+**Languages:** Python, C, C++  
+**Systems & Networking:** Linux, Windows, TCP/UDP sockets, libpcap, Wireshark  
+**Cloud & IaC:** AWS, GCP, Terraform, Docker, GitHub Actions, Kubernetes (EKS), Helm  
+**Observability:** OpenTelemetry, Prometheus, Grafana, Jaeger  
+**Back-End & Data:** Flask, FastAPI (familiar), PostgreSQL/MySQL, BigQuery  
+**Embedded (familiar):** ESP32/FreeRTOS, CMake
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarlogandev&" alt="sanskarlogandev" /></p>
+> Full certifications: GCP **Professional Cloud Architect**, **Associate Cloud Engineer**, **AZ-900** Azure Fundamentals
+
+---
+
+## 📦 Selected Projects (pin these repos)
+### NetScope — C++/libpcap Packet Analyzer (Windows/WSL)
+- **Built** a packet analyzer decoding Ethernet/IPv4/TCP/UDP and surfacing “top talkers/flows” to pinpoint bandwidth hogs and flaky services.  
+- **Productionized** with **CMake**; added **DNS-based domain labeling** and **TCP handshake metrics** (SYN→SYN/ACK RTT, fail rate) to reveal latency/reachability issues.  
+**Tech:** C++, libpcap, CMake, Wireshark
+
+### OpenTelemetry Observability on AWS EKS
+- **Provisioned** **EKS with Terraform** (private node groups/IAM), deployed **OpenTelemetry** via **Helm**, and exposed services with LoadBalancer for **Jaeger/Grafana** diagnostics.  
+- **Implemented** **GitHub Actions** CI/CD with rollback-on-failure and **Prometheus/Alertmanager → Slack** alerting.  
+**Tech:** AWS, EKS, Terraform, Helm, OpenTelemetry, Prometheus, Grafana, Jaeger, GitHub Actions
+
+### Security Automation — CVE Alerts & Secret Scanning
+- **CVE pipeline:** AWS Lambda/EventBridge/PostgreSQL; idempotent processing; **3-hour** SLA; zero dupes.  
+- **Secret scanner:** GitHub App + Lambda/SQS/Fargate + Gitleaks; enforced PR status checks; **~60%** credential risk reduction.  
+**Tech:** Python, AWS (Lambda, SQS, Fargate), GitHub App, Gitleaks, Office 365
+
+### Driver Drowsiness Detection (Real-Time)
+- **Engineered** EAR/MAR-based detection (OpenCV/dlib) + Arduino pulse telemetry to cloud; **~90%** accuracy in controlled tests.  
+**Tech:** Python, OpenCV, dlib, Arduino, ThingSpeak
+
+---
+
+## 💼 Experience (Deep Dive)
+
+<details>
+<summary><b>CBTS — Software Developer Intern</b> · Security automation, cloud, reliability</summary>
+
+**Context:** Joined to harden developer workflows and reduce security toil.
+
+- **CVE Alerting (serverless)**
+  - **Problem:** Vendor CVEs arriving ad-hoc → duplicates and delayed triage.
+  - **Approach:** Built an idempotent pipeline on **AWS (Lambda, EventBridge, PostgreSQL)** to ingest/parse advisories every 3 hours; added **structured logs/metrics** and O365 notifications with runbooks.
+  - **Impact:** **3-hour detection SLA**, eliminated duplicate alerts, faster routing to owners.
+
+- **Secret Scanning (merge protection)**
+  - **Problem:** Credentials occasionally landed in PRs; manual review was noisy.
+  - **Approach:** Developed a **GitHub App** workflow with **Lambda, SQS, Fargate, Gitleaks**; enforced **PR status checks** so risk never merged.
+  - **Impact:** **~60% reduction** in credential-exposure incidents; **~50% less** manual review. 
+
+- **Quality & Ops**
+  - **What I added:** CI checks (lint/tests), policy gates, incident docs; verified across **Linux/Windows** environments.
+
+**Tech:** Python, AWS (Lambda/SQS/Fargate/EventBridge), PostgreSQL, GitHub App/Checks API, Gitleaks, Office 365, GitHub Actions, logging/metrics
+</details>
+
+<details>
+<summary><b>Accenture — Software Developer I</b> · APIs at scale, cloud delivery, observability</summary>
+
+- **API Platform**
+  - **Built:** **20+ Python/Flask REST APIs**, fully documented (**Swagger/Postman**).
+  - **Quality:** **80+ PyTest** cases; **40+ defects** resolved → higher reliability & maintainability.
+
+- **Cloud Release Engineering**
+  - **Automated:** Deployments with **Docker + Terraform (GCP)**; addressed **100+ Artifact Registry** issues.
+  - **Outcome:** **~40% faster** release cycles; stabilized build/publish paths.
+
+- **Observability & Data**
+  - **Delivered:** **20+ Looker (LookML)** dashboards; Python data flows with **BigQuery + Cloud Scheduler** and **10+ Cloud Monitoring** policies for SIEM/SOAR visibility.
+
+- **Dev Practices**
+  - **Standardized:** API patterns, test templates, and POC docs (**50+**) to accelerate onboarding and code reuse.
+
+**Tech:** Python/Flask, SQL, Postman/Swagger, Docker, Terraform (GCP), BigQuery, Looker/LookML, Cloud Monitoring, Git
+</details>
+
+<details>
+<summary><b>Cranfield University — Research Engineer (Aero Data Analytics)</b></summary>
+
+- **Digital-Twin-style Analytics**
+  - **Built:** MATLAB/Turbomatch pipeline simulating flight conditions; **~95%** parameter prediction accuracy for maintenance planning.
+- **Signal Processing**
+  - **Implemented:** Scattered interpolation for remote engine data → error **<1%** (Case 1) and **~3%** (Case 2).
+
+**Tech:** MATLAB, Turbomatch, data cleaning/interpolation, experiment design
+</details>
+
+---
+
+## 📫 Contact
+- Email: **sanskar.vidyarthi102@gmail.com**  
+- LinkedIn: **linkedin.com/in/sanskar-vidyarthi-6b04041ab**  
+
+
+---
+
+### How this page helps recruiters
+- **Metrics first**: outcomes and scale (APIs shipped, defects fixed, SLAs met).  
+- **Targeted stack**: Python + C/C++, systems/networking, cloud/observability, CI/CD.  
+- **Pinned work**: direct links to code that demonstrates shipping & reliability.
+
