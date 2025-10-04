@@ -111,10 +111,3 @@
 - LinkedIn: **linkedin.com/in/sanskar-vidyarthi-6b04041ab**  
 
 
----
-
-### How this page helps recruiters
-- **Metrics first**: outcomes and scale (APIs shipped, defects fixed, SLAs met).  
-- **Targeted stack**: Python + C/C++, systems/networking, cloud/observability, CI/CD.  
-- **Pinned work**: direct links to code that demonstrates shipping & reliability.
-
