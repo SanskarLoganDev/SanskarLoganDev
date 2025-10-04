@@ -108,6 +108,6 @@
 
 ## 📫 Contact
 - Email: **sanskar.vidyarthi102@gmail.com**  
-- LinkedIn: **linkedin.com/in/sanskar-vidyarthi-6b04041ab**  
+- LinkedIn: **linkedin.com/in/sanskar-vidyarthi**  
 
 
