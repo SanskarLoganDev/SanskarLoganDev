@@ -1,6 +1,6 @@
 # Hi, I’m Sanskar Vidyarthi 👋
 *M.Eng. Software Engineering @ University of Maryland (May 2026)*  
-**Software Engineer — Systems • Networking • Cloud/Observability**
+**Software Engineer — Web Dev • Cloud • Systems • Networking**
 
 - I build back-end services, security automation, and network tooling.  
 - Comfortable across **Python** and **C/C++** on **Linux/Windows**, with cloud infra in **AWS/GCP**, **Terraform**, **Docker**, and **GitHub Actions**.  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🔎 Highlights
+## 🔎 Highlights (2+ Years of Experience)
 - Shipped **20+ REST APIs** (Python/Flask), fixed **40+ defects**, and wrote **80+ PyTest** cases → higher reliability & maintainability.  
 - Built a serverless **CVE alerting** workflow (AWS Lambda/EventBridge/PostgreSQL) with idempotency → **3-hour detection SLA** and zero duplicate notifications.  
 - Deployed a GitHub App–based **secret scanner** (Lambda/SQS/Fargate/Gitleaks) with PR checks → **~60% reduction** in credential exposure; **~50%** less manual review.  
@@ -17,12 +17,10 @@
 ---
 
 ## 🛠️ Tech Stack (short list for screeners)
-**Languages:** Python, C, C++  
+**Languages:** Python, HTML, CSS, JavaScript, Flask, XML, JSON, YAML, React, Next.js, C++, CMake 
 **Systems & Networking:** Linux, Windows, TCP/UDP sockets, libpcap, Wireshark  
-**Cloud & IaC:** AWS, GCP, Terraform, Docker, GitHub Actions, Kubernetes (EKS), Helm  
-**Observability:** OpenTelemetry, Prometheus, Grafana, Jaeger  
+**Cloud & IaC:** AWS, GCP, Terraform, Docker, GitHub Actions, Kubernetes (EKS), Helm   
 **Back-End & Data:** Flask, FastAPI (familiar), PostgreSQL/MySQL, BigQuery  
-**Embedded (familiar):** ESP32/FreeRTOS, CMake
 
 > Full certifications: GCP **Professional Cloud Architect**, **Associate Cloud Engineer**, **AZ-900** Azure Fundamentals
 
@@ -101,7 +99,7 @@
 - **Signal Processing**
   - **Implemented:** Scattered interpolation for remote engine data → error **<1%** (Case 1) and **~3%** (Case 2).
 
-**Tech:** MATLAB, Turbomatch, data cleaning/interpolation, experiment design
+**Tech:** MATLAB, Turbomatch, data interpolation, experiment design
 </details>
 
 ---
