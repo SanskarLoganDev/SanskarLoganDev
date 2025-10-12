@@ -1,6 +1,6 @@
 # Hi, I’m Sanskar Vidyarthi 👋
 *M.Eng. Software Engineering @ University of Maryland (May 2026)*  
-**Software Engineer — Web Dev • Cloud • Systems • Networking**
+**Software Engineer — Web Dev • Cloud • DevOps • Networking**
 
 - I build back-end services, security automation, and network tooling.  
 - Comfortable across **Python** and **C/C++** on **Linux/Windows**, with cloud infra in **AWS/GCP**, **Terraform**, **Docker**, and **GitHub Actions**.  
