@@ -26,7 +26,7 @@
 
 ---
 
-## 📦 Selected Projects (pin these repos)
+## 📦 Selected Projects
 ### NetScope — C++/libpcap Packet Analyzer (Windows/WSL)
 - **Built** a packet analyzer decoding Ethernet/IPv4/TCP/UDP and surfacing “top talkers/flows” to pinpoint bandwidth hogs and flaky services.  
 - **Productionized** with **CMake**; added **DNS-based domain labeling** and **TCP handshake metrics** (SYN→SYN/ACK RTT, fail rate) to reveal latency/reachability issues.  
