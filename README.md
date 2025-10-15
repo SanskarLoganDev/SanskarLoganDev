@@ -16,11 +16,12 @@
 
 ---
 
-## 🛠️ Tech Stack (short list for screeners)
-**Languages:** Python, HTML, CSS, JavaScript, Flask, XML, JSON, YAML, React, Next.js, C++, CMake 
-**Systems & Networking:** Linux, Windows, TCP/UDP sockets, libpcap, Wireshark  
-**Cloud & IaC:** AWS, GCP, Terraform, Docker, GitHub Actions, Kubernetes (EKS), Helm   
-**Back-End & Data:** Flask, FastAPI (familiar), PostgreSQL/MySQL, BigQuery  
+## 🛠️ Tech Stack
+**Languages:** Python, HTML, CSS, JavaScript, Flask, XML, JSON, YAML, C++, CMake 
+**Systems & Networking:** Linux, Windows, TCP/UDP sockets, libpcap, Wireshark, WSL 
+**Cloud & IaC:** AWS, GCP, Terraform, Docker, GitHub Actions, Kubernetes (EKS), Helm, Docker 
+**Full-stack & Data:** Flask,  React, Next.js, PostgreSQL/MySQL, BigQuery, Looker
+**Tools & Platforms:** Git, Postman, JIRA, Confluence, Swagger, Linux OS, PyTest
 
 > Full certifications: GCP **Professional Cloud Architect**, **Associate Cloud Engineer**, **AZ-900** Azure Fundamentals
 
