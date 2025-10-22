@@ -23,7 +23,7 @@
 **Full-stack & Data:** Flask,  React, Next.js, PostgreSQL/MySQL, BigQuery, Looker
 **Tools & Platforms:** Git, Postman, JIRA, Confluence, Swagger, Linux OS, PyTest
 
-> Full certifications: GCP **Professional Cloud Architect**, **Associate Cloud Engineer**, **AZ-900** Azure Fundamentals
+> Full certifications: GCP **Professional Cloud Architect**, **Associate Cloud Engineer**, **AZ-900** Azure Fundamentals, Cisco **CCST Networking** (ongoing)
 
 ---
 
