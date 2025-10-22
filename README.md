@@ -113,7 +113,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanskarLoganDev&theme=tokyonight&hide_border=true)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarLoganDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SanskarLoganDev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
