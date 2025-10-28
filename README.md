@@ -89,7 +89,7 @@
 - **Dev Practices**
   - **Standardized:** API patterns, test templates, and POC docs (**50+**) to accelerate onboarding and code reuse.
 
-**Tech:** Python/Flask, SQL, Postman/Swagger, Docker, Terraform (GCP), BigQuery, Looker/LookML, Cloud Monitoring, Git
+**Tech:** Python/Flask, SQL, Postman/Swagger, Docker, Terraform (GCP), BigQuery, Looker/LookML, Cloud Monitoring, Git, DB Visualizer
 </details>
 
 <details>
