@@ -4,7 +4,7 @@
 
 - I build back-end services, security automation, and network tooling.  
 - Comfortable across **Python** and **C/C++** on **Linux/Windows**, with cloud infra in **AWS/GCP**, **Terraform**, **Docker**, **Kubernetes** and **GitHub Actions**.  
-- Interested in **network test/observability**, **embedded basics**, and **production reliability**.
+- Interested in **network test and observability**, **embedded basics**, and **production reliability**.
 
 ---
 
