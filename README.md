@@ -11,7 +11,7 @@
 ## 🔎 Highlights (2+ Years of Experience)
 - Shipped **20+ REST APIs** (Python/Flask), fixed **40+ defects**, and wrote **80+ PyTest** cases → higher reliability & maintainability.  
 - Built a serverless **CVE alerting** workflow (AWS Lambda/EventBridge/PostgreSQL) with idempotency → **3-hour detection SLA** and zero duplicate notifications.  
-- Deployed a GitHub App–based **secret scanner** (Lambda/SQS/Fargate/Gitleaks) with PR checks → **~60% reduction** in credential exposure; **~50%** less manual review.  
+- Deployed a GitHub App based **secret scanner** (Lambda/SQS/Fargate/Gitleaks) with PR checks → **~60% reduction** in credential exposure; **~50%** less manual review.  
 - Provisioned **EKS via Terraform**, deployed **OpenTelemetry** with Helm, added CI/CD with rollback and **Prometheus/Alertmanager → Slack** → faster, auditable releases.
 
 ---
