@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary><b>Accenture — Software Developer I</b> · APIs at scale, cloud delivery, observability</summary>
+<summary><b>Accenture — Software Developer</b> · APIs at scale, cloud delivery, observability</summary>
 
 - **API Platform**
   - **Built:** **20+ Python/Flask REST APIs**, fully documented (**Swagger/Postman**).
