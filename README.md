@@ -38,13 +38,14 @@
 - **Implemented** **GitHub Actions** CI/CD with rollback-on-failure and **Prometheus/Alertmanager → Slack** alerting.  
 **Tech:** AWS, EKS, Terraform, Helm, OpenTelemetry, Prometheus, Grafana, Jaeger, GitHub Actions
 
-### Security Automation — CVE Alerts & Secret Scanning
-- **CVE pipeline:** AWS Lambda/EventBridge/PostgreSQL; idempotent processing; **3-hour** SLA; zero dupes.  
-- **Secret scanner:** GitHub App + Lambda/SQS/Fargate + Gitleaks; enforced PR status checks; **~60%** credential risk reduction.  
-**Tech:** Python, AWS (Lambda, SQS, Fargate), GitHub App, Gitleaks, Office 365
+### Job Hunter — Hunting specific jobs
+- Built a job watcher with FastAPI, SQLite (SQLAlchemy), Requests + BeautifulSoup, and SMTP to track specific company career pages,filter postings by last posted, keywords, and deliver HTML email summaries; **won 2nd Prize in GDG’s Hackathon**.  
+- Implemented a minimal UI using HTML, CSS and JavaScript to add companies and trigger runs; prototyped a cloud path using GCP Cloud Functions + Cloud Scheduler with Secret Manager for SMTP, enabling serverless automation.  
+**Tech:** Python, FastAPI, HTML, CSS, Javascript, Google Cloud Platform, GCP Cloud Function, Cloud Scheduler
 
 ### Driver Drowsiness Detection (Real-Time)
-- **Engineered** EAR/MAR-based detection (OpenCV/dlib) + Arduino pulse telemetry to cloud; **~90%** accuracy in controlled tests.  
+- Engineered a real-time drowsiness detection system using Python, OpenCV, and dlib that tracked eye aspect ratio and lip distance, achieving **90% accuracy** in detecting yawning and fatigue.
+-  Integrated a pulse monitoring mechanism utilizing Arduino IDE, NodeMCU, and a pulse sensor, transmitting real-time data to the ThingSpeak cloud, enabling continuous tracking of heart rate and triggering alerts when the driver’s pulse fell below 60 bpm.
 **Tech:** Python, OpenCV, dlib, Arduino, ThingSpeak
 
 ---
