@@ -198,6 +198,13 @@
 
 ---
 
+### NetScope — C++/libpcap Packet Analyzer (Windows/WSL)
+- **Built** a packet analyzer decoding Ethernet/IPv4/TCP/UDP and surfacing “top talkers and flows” to pinpoint bandwidth hogs and flaky services.  
+- **Productionized** with **CMake**; added **DNS-based domain labeling** and **TCP handshake metrics** (SYN→SYN/ACK RTT, fail rate) to reveal latency/reachability issues.  
+**Tech:** C++, libpcap, CMake, Wireshark
+
+---
+
 ### **OpenTelemetry Observability on AWS EKS** | 2025
 - Delivered reproducible observability stack by provisioning **EKS with Terraform** (VPC, private nodes) and deploying **OpenTelemetry** via **Helm**; exposed services with LoadBalancer for **Jaeger tracing** and **Grafana** dashboards.
 - Implemented **GitHub Actions CI/CD** to deploy/rollback Helm releases and configured **Prometheus + Alertmanager → Slack** webhooks with pod-restart alerting rules.
