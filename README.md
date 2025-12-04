@@ -15,7 +15,7 @@
 
 ## 🎓 Education
 **University of Maryland College Park** | College Park, MD  
-*M.Eng., Software Engineering* | GPA: 4.0/4.0 | Expected May 2026
+*M.Eng., Software Engineering* | GPA: 3.65/4.0 | Expected May 2026
 - Teaching Assistant for Computer Vision (Fall 2025)
 - Teaching Assistant for Data Structures and Algorithms (Spring 2025)
 
@@ -88,8 +88,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -216,24 +214,6 @@
 
 ---
 
-### **Employee Attrition Prediction** | 2021
-- Developed modular machine learning pipeline using **Python, scikit-learn, and pandas**; implemented random forest, logistic regression, and decision tree models—achieved accuracies of **86.8%, 85%, and 77.8%** respectively on test data.
-- Enhanced data quality through preprocessing techniques (label encoding, feature selection, train-test splitting).
-- Utilized **matplotlib and seaborn** to visualize data distributions and model performance metrics (ROC curves, confusion matrices).
-
-**Tech:** Python, NumPy, Pandas, scikit-learn, matplotlib, seaborn
-
----
-
-### **Note-Making Web Application** | 2020
-- Developed **Flask-based note-taking application** with user authentication, session management, and secure password hashing using **Werkzeug**, enhancing user data security by **50%**.
-- Designed responsive front-end with **HTML, Bootstrap, and JavaScript**, creating intuitive user experience with seamless navigation.
-- Built note management system with full CRUD functionality using **Flask blueprints and SQLAlchemy models**.
-
-**Tech:** Python, Flask, SQLAlchemy, HTML, CSS, JavaScript, Werkzeug
-
----
-
 ## 📊 GitHub Statistics & Analytics
 
 ### 📈 Profile Stats
@@ -250,39 +230,11 @@
 
 ---
 
-## 🎓 Teaching & Leadership
-
-### **University of Maryland College Park** | Teaching Assistant
-**Algorithms and Data Structures for Machine Learning (MSML606)** | Jan 2025 – Present
-- Provided guidance to **60+ students** by grading assignments and quizzes with prompt, constructive feedback.
-- Conducted weekly office hours to clarify course concepts, boosting student performance and retention.
-- Collaborated with faculty on curriculum improvements and coordinated sessions to reinforce key topics.
-
-**Computer Vision Course** | Sep 2025 - Dec 2025
-
-**Data Structures and Algorithms Course** | Jan 2025 - May 2025
-
----
-
-### **Little Star Foundation** | Teacher | Jan 2023 – Dec 2023
-- Led educational programs for **50+ orphan girls**, improving literacy and creativity.
-- Developed engaging lesson plans tailored to various learning styles, fostering supportive learning environment.
-
----
-
-### **Executive Leader of CUBE Club, VIT** | Jul 2019 – Dec 2022
-- Organized interactive puzzle-solving events, teaching 3x3, 2x2, mirror cube, and pyraminx methods to **60+ university students**.
-- Led time-based speed cubing competitions, boosting engagement and participants' critical thinking under pressure.
-
----
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-sanskar.vidyarthi102%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanskar.vidyarthi102@gmail.com)
-[![University Email](https://img.shields.io/badge/University-svidyar1%40umd.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svidyar1@umd.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanskar_Vidyarthi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-vidyarthi)
 [![GitHub](https://img.shields.io/badge/GitHub-SanskarLoganDev-100000?style=flat&logo=github&logoColor=white)](https://github.com/SanskarLoganDev)
-[![Phone](https://img.shields.io/badge/Phone-%2B1_(240)_898--6857-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+12408986857)
 
 ---
 
