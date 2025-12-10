@@ -125,7 +125,7 @@
 
 - **Secret Scanning (Merge Protection)**
   - Deployed **GitHub App-based secret scanner** leveraging **Lambda, SQS, Fargate, and Gitleaks** to securely clone repositories, run scans, and block PR merges containing credentials.
-  - **Impact:** **~60% reduction** in credential-exposure incidents; **~50% less** manual review effort.
+  - **Impact:** **~65% reduction** in credential-exposure incidents; **~50% less** manual review effort.
 
 - **Automated Notifications & Compliance**
   - Implemented automated notification workflow with **Office 365**, instantly alerting developers of detected secrets while enforcing branch protection rules.
