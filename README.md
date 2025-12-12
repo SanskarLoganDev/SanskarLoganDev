@@ -221,22 +221,6 @@
 
 ---
 
-## 📊 GitHub Statistics & Analytics
-
-### 📈 Profile Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanskarLoganDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanskarLoganDev&theme=tokyonight&hide_border=true)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarLoganDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SanskarLoganDev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
-
----
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-sanskar.vidyarthi102%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanskar.vidyarthi102@gmail.com)
