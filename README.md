@@ -174,7 +174,7 @@
 
 ## 📦 Featured Projects
 
-### **Terrapin Events Management System (TEMS)** | Oct 2025 - Nov 2025
+### **Terrapin Events Management System (TEMS)** | 2025
 - Architected **serverless event management platform** using **AWS Lambda, DynamoDB, AppSync GraphQL API, and EventBridge**, supporting **1,000+ concurrent users** with RBAC, automated waitlist management, and sub-2-second API response times for **200+ university event organizers**.
 - Designed event-driven microservices architecture with **Node.js/TypeScript** backend, **Next.js 14** frontend, and CQRS pattern using single-table DynamoDB modeling, achieving **99.5% uptime** through multi-AZ deployment.
 
@@ -182,7 +182,7 @@
 
 ---
 
-### **FitnessHub** | Oct 2025 - Nov 2025
+### **FitnessHub** | 2025
 - Developed **AI-powered fitness application** generating personalized 7-day workout and nutrition plans using **Claude API** integrated with **Flask** backend; won **Student Choice Award at Anthropic Hackathon**.
 - Engineered full-stack solution with responsive frontend handling multi-parameter inputs, optimized system prompts for consistent JSON outputs, and implemented age-adaptive exercise programming.
 
@@ -190,7 +190,7 @@
 
 ---
 
-### **Job Hunter** | Oct 2025 - Nov 2025
+### **Job Hunter** | 2025
 - Built a job watcher with **FastAPI, SQLite (SQLAlchemy), Requests + BeautifulSoup**, and SMTP to track company career pages, filter postings by keywords, and deliver HTML email summaries; **won 2nd Prize in GDG's Hackathon**.
 - Implemented a minimal UI using **HTML, CSS, and JavaScript**; prototyped cloud deployment using **GCP Cloud Functions + Cloud Scheduler** with Secret Manager for SMTP automation.
 
@@ -198,7 +198,7 @@
 
 ---
 
-### NetScope — C++/libpcap Packet Analyzer (Windows/WSL)
+### NetScope — C++/libpcap Packet Analyzer (Windows/WSL) | 2025
 - **Built** a packet analyzer decoding Ethernet/IPv4/TCP/UDP and surfacing “top talkers and flows” to pinpoint bandwidth hogs and flaky services.  
 - **Productionized** with **CMake**; added **DNS-based domain labeling** and **TCP handshake metrics** (SYN→SYN/ACK RTT, fail rate) to reveal latency/reachability issues.  
 **Tech:** C++, libpcap, CMake, Wireshark
