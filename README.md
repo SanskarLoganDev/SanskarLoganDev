@@ -177,7 +177,7 @@
 - Architected **serverless event management platform** using **AWS Lambda, DynamoDB, AppSync GraphQL API, and EventBridge**, supporting **1,000+ concurrent users** with RBAC, automated waitlist management, and sub-2-second API response times for **200+ university event organizers**.
 - Designed event-driven microservices architecture with **Node.js/TypeScript** backend, **Next.js 14** frontend, and CQRS pattern using single-table DynamoDB modeling, achieving **99.5% uptime** through multi-AZ deployment.
 
-**Tech:** AWS Lambda, DynamoDB, AppSync, EventBridge, Node.js, TypeScript, Next.js 14, SAML 2.0
+**Tech:** AWS Lambda, DynamoDB, AppSync, EventBridge, Node.js, TypeScript, Next.js 14, SAML 2.0, Serverless Architecture
 
 ---
 
