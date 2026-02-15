@@ -109,6 +109,7 @@
 ![GCP Associate Cloud Engineer](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-AZ--900_Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Cisco CCST Networking](https://img.shields.io/badge/Cisco-CCST_Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
