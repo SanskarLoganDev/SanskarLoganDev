@@ -16,7 +16,7 @@
 ## 🎓 Education
 **University of Maryland College Park** | College Park, MD  
 *M.Eng., Software Engineering* | GPA: 3.766/4.0 | Expected May 2026
-- Teaching Assistant for Computer Vision (Fall 2025)
+- Teaching Assistant for Computer Vision (Fall 2025, Spring 2026)
 - Teaching Assistant for Algorithms and Data Structures for Machine Learning (Spring 2025)
 
 **Vellore Institute of Technology** | Vellore, India  
