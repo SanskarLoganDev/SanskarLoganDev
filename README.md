@@ -115,7 +115,7 @@
 
 ## 💼 Work Experience
 
-### **CBTS (Cincinnati Bell Technology Solutions)** | Cincinnati, OH
+### **CBTS (Cincinnati Bell Technology Solutions)** | Cincinnati, OH, USA
 **Software Developer Intern** | Jun 2025 - Aug 2025
 
 **Security Automation & Cloud Reliability**
@@ -135,7 +135,7 @@
 
 ---
 
-### **Accenture** | India
+### **Accenture** | Pune, Maharashtra, India
 **Software Developer I** | Jul 2022 – Jun 2024
 
 **API Platform & Cloud Engineering**
