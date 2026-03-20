@@ -110,7 +110,7 @@
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-AZ--900_Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Cisco CCST Networking](https://img.shields.io/badge/Cisco-CCST_Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS Certified AI Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ---
 
 ## 💼 Work Experience
