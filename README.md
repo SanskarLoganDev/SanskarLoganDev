@@ -1,6 +1,6 @@
 # Hi, I'm Sanskar Vidyarthi 👋
 *M.Eng. Software Engineering @ University of Maryland College Park (Expected May 2026)*  
-**Software Engineer – Web Dev • Cloud • DevOps • Security Automation**
+**Software Engineer – Web Dev • Cloud • DevOps • AI/ML Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-vidyarthi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/SanskarLoganDev)
@@ -9,6 +9,7 @@
 - I build back-end services, security automation, and cloud infrastructure with a focus on reliability and scalability.  
 - Experienced with **Python, Flask, FastAPI** and **Node.js/TypeScript** for API development and microservices.
 - Proficient in **AWS/GCP cloud platforms**, **Terraform IaC**, **Docker/Kubernetes**, and **CI/CD** with GitHub Actions.  
+- Building with **LLM APIs, RAG pipelines, and AI/ML integrations** for production-grade intelligent applications.
 - Interested in **observability, security automation**, and **production reliability engineering**.
 
 ---
@@ -54,35 +55,33 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Cloud Platforms & Services
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-web-services&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazon-web-services&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat&logo=amazon-web-services&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white)
-
-### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat&logo=amazon-eks&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-
-### Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE0?style=flat&logo=jaeger&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
-### Data Science & ML
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazon-web-services&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logo=databricks&logoColor=white)
+
+### AI/ML Engineering
+![Claude API](https://img.shields.io/badge/Claude_API-6B46C1?style=flat&logo=anthropic&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -106,11 +105,12 @@
 
 ### Certifications
 ![GCP Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional_Cloud_Architect-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP Associate Cloud Engineer](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-AZ--900_Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Cisco CCST Networking](https://img.shields.io/badge/Cisco-CCST_Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
 ---
 
 ## 💼 Work Experience
@@ -174,6 +174,15 @@
 
 ## 📦 Featured Projects
 
+### **EcoLens — AI-Powered Environmental Intelligence Platform** | Jan 2026 - Mar 2026
+- Integrated **Claude Vision API** and **NASA GIBS satellite imagery** with **FastAPI** and **pandas** to classify transaction-level CO2 emissions, generate reduction recommendations, benchmark against Paris Agreement targets, and detect land-cover changes from Landsat imagery.
+- Configured a **dual-mode research pipeline** using **PyPDF2, ChromaDB, and Voyage AI embeddings** for RAG-based cited Q&A across indexed PDFs, alongside a separate Claude-powered summarization service extracting findings, metadata, and figure analysis.
+- Implemented **strategic caching and prompt engineering** across three production-ready services to reduce API costs by **70%** while maintaining analysis accuracy.
+
+**Tech:** Python, FastAPI, Claude API (Text + Vision), NASA GIBS, Voyage AI, ChromaDB, PyPDF2, RAG, pandas, Prompt Engineering
+
+---
+
 ### **Terrapin Events Management System (TEMS)** | 2025
 - Architected **serverless event management platform** using **AWS Lambda, DynamoDB, AppSync GraphQL API, and EventBridge**, supporting **1,000+ concurrent users** with RBAC, automated waitlist management, and sub-2-second API response times for **200+ university event organizers**.
 - Designed event-driven microservices architecture with **Node.js/TypeScript** backend, **Next.js 14** frontend, and CQRS pattern using single-table DynamoDB modeling, achieving **99.5% uptime** through multi-AZ deployment.
@@ -199,7 +208,7 @@
 ---
 
 ### NetScope — C++/libpcap Packet Analyzer (Windows/WSL) | 2025
-- **Built** a packet analyzer decoding Ethernet/IPv4/TCP/UDP and surfacing “top talkers and flows” to pinpoint bandwidth hogs and flaky services.  
+- **Built** a packet analyzer decoding Ethernet/IPv4/TCP/UDP and surfacing "top talkers and flows" to pinpoint bandwidth hogs and flaky services.  
 - **Productionized** with **CMake**; added **DNS-based domain labeling** and **TCP handshake metrics** (SYN→SYN/ACK RTT, fail rate) to reveal latency/reachability issues.  
 **Tech:** C++, libpcap, CMake, Wireshark
 
@@ -230,5 +239,5 @@
 ---
 
 <div align="center">
-  <i>Open to opportunities in Software Engineering, Cloud Engineering, DevOps, and Backend Development</i>
+  <i>Open to opportunities in Software Engineering, Cloud Engineering, DevOps, and AI/ML Engineering</i>
 </div>
