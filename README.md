@@ -174,7 +174,7 @@
 
 ## 📦 Featured Projects
 
-### **EcoLens — AI-Powered Environmental Intelligence Platform** | Jan 2026 - Mar 2026
+### **EcoLens — AI-Powered Environmental Intelligence Platform** | 2026
 - Integrated **Claude Vision API** and **NASA GIBS satellite imagery** with **FastAPI** and **pandas** to classify transaction-level CO2 emissions, generate reduction recommendations, benchmark against Paris Agreement targets, and detect land-cover changes from Landsat imagery.
 - Configured a **dual-mode research pipeline** using **PyPDF2, ChromaDB, and Voyage AI embeddings** for RAG-based cited Q&A across indexed PDFs, alongside a separate Claude-powered summarization service extracting findings, metadata, and figure analysis.
 - Implemented **strategic caching and prompt engineering** across three production-ready services to reduce API costs by **70%** while maintaining analysis accuracy.
