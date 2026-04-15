@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-vidyarthi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/SanskarLoganDev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanskar.vidyarthi102@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://sanskarlogandev.github.io)
 
 - I build back-end services, security automation, and cloud infrastructure with a focus on reliability and scalability.  
 - Experienced with **Python, Flask, FastAPI** and **Node.js/TypeScript** for API development and microservices.
