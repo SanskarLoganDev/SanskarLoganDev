@@ -1,5 +1,5 @@
 # Hi, I'm Sanskar Vidyarthi 👋
-*M.Eng. Software Engineering @ University of Maryland College Park (Expected May 2026)*  
+*M.Eng. Software Engineering @ University of Maryland College Park (May 2026)*  
 **Software Engineer – Web Dev • Cloud • DevOps • AI/ML Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-vidyarthi)
