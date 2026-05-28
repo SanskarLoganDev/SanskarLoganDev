@@ -1,6 +1,5 @@
 # Hi, I'm Sanskar Vidyarthi 👋
-*M.Eng. Software Engineering @ University of Maryland College Park (May 2026)*  
-**Software Engineer – Web Dev • Cloud • DevOps • AI/ML Engineering**
+**Software Engineer – Web Dev • Cloud • DevOps • AI Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-vidyarthi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/SanskarLoganDev)
@@ -17,7 +16,7 @@
 
 ## 🎓 Education
 **University of Maryland College Park** | College Park, MD  
-*Master of Engineering, Software Engineering* | GPA: 3.76/4.0 | Aug 2024 - May 2026
+*Master of Engineering, Software Engineering* | GPA: 3.79/4.0 | Aug 2024 - May 2026
 - Teaching Assistant for Computer Vision (Fall 2025, Spring 2026)
 - Teaching Assistant for Algorithms and Data Structures for Machine Learning (Spring 2025)
 
