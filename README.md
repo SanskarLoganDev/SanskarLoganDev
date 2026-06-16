@@ -9,7 +9,7 @@
 - I build back-end services, security automation, and cloud infrastructure with a focus on reliability and scalability.  
 - Experienced with **Python, Flask, FastAPI** and **Node.js/TypeScript** for API development and microservices.
 - Proficient in **AWS/GCP cloud platforms**, **Terraform IaC**, **Docker/Kubernetes**, and **CI/CD** with GitHub Actions.  
-- Building with **LLM APIs, RAG pipelines, and AI/ML integrations** for production-grade intelligent applications.
+- Building with **LLM APIs, RAG pipelines, and AI integrations** for production-grade intelligent applications.
 - Interested in **observability, security automation**, and **production reliability engineering**.
 
 ---
@@ -239,5 +239,5 @@
 ---
 
 <div align="center">
-  <i>Open to opportunities in Software Engineering, Cloud Engineering, DevOps, and AI/ML Engineering</i>
+  <i>Open to opportunities in Software Engineering, Cloud Engineering, DevOps, and AI Engineering</i>
 </div>
