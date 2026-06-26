@@ -174,6 +174,14 @@
 
 ## 📦 Featured Projects
 
+### **AI Cargo Monitoring System — Agentic AI + LLM Orchestration + GCP** | 2026
+- Orchestrated multi-agent platform using Claude API, LangChain, and FastAPI with Pub/Sub architecture, enabling real-time anomaly detection and autonomous route optimization recommendations for temperature-sensitive vaccine/drug shipments.
+- Provisioned event-driven infrastructure using Terraform, deploying Cloud Run services, Pub/Sub topics, Cloud Functions, Firestore database, and BigQuery audit tables to enforce FDA-compliant human-in-the-loop workflows with 99.9% regulatory traceability. 
+
+**Tech:** Python, FastAPI, Claude API, LangChain, Pub/Sub Architecture, Firestore, Google Cloud Platform, Cloud Run, Terraform, Cloud Functions, BigQuery, Prompt Engineering
+
+---
+
 ### **EcoLens — AI-Powered Environmental Intelligence Platform** | 2026
 - Integrated **Claude Vision API** and **NASA GIBS satellite imagery** with **FastAPI** and **pandas** to classify transaction-level CO2 emissions, generate reduction recommendations, benchmark against Paris Agreement targets, and detect land-cover changes from Landsat imagery.
 - Configured a **dual-mode research pipeline** using **PyPDF2, ChromaDB, and Voyage AI embeddings** for RAG-based cited Q&A across indexed PDFs, alongside a separate Claude-powered summarization service extracting findings, metadata, and figure analysis.
