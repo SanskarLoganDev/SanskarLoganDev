@@ -187,7 +187,7 @@
 - Configured a **dual-mode research pipeline** using **PyPDF2, ChromaDB, and Voyage AI embeddings** for RAG-based cited Q&A across indexed PDFs, alongside a separate Claude-powered summarization service extracting findings, metadata, and figure analysis.
 - Implemented **strategic caching and prompt engineering** across three production-ready services to reduce API costs by **70%** while maintaining analysis accuracy.
 
-**Tech:** Python, FastAPI, Claude API (Text + Vision), NASA GIBS, Voyage AI, ChromaDB, PyPDF2, RAG, pandas, Prompt Engineering
+**Tech:** Python, FastAPI, Claude API (Text + Vision), NASA GIBS, Voyage AI, ChromaDB, PyPDF2, RAG, pandas, Prompt Engineering, Claude Code
 
 ---
 
