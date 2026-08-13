@@ -199,14 +199,6 @@
 
 ---
 
-### **FitnessHub** | 2025
-- Developed **AI-powered fitness application** generating personalized 7-day workout and nutrition plans using **Claude API** integrated with **Flask** backend; won **Student Choice Award at Anthropic Hackathon**.
-- Engineered full-stack solution with responsive frontend handling multi-parameter inputs, optimized system prompts for consistent JSON outputs, and implemented age-adaptive exercise programming.
-
-**Tech:** Python, Flask, Claude API, HTML, CSS, JavaScript
-
----
-
 ### **Job Hunter** | 2025
 - Built a job watcher with **FastAPI, SQLite (SQLAlchemy), Requests + BeautifulSoup**, and SMTP to track company career pages, filter postings by keywords, and deliver HTML email summaries; **won 2nd Prize in GDG's Hackathon**.
 - Implemented a minimal UI using **HTML, CSS, and JavaScript**; prototyped cloud deployment using **GCP Cloud Functions + Cloud Scheduler** with Secret Manager for SMTP automation.
@@ -215,26 +207,11 @@
 
 ---
 
-### NetScope — C++/libpcap Packet Analyzer (Windows/WSL) | 2025
-- **Built** a packet analyzer decoding Ethernet/IPv4/TCP/UDP and surfacing "top talkers and flows" to pinpoint bandwidth hogs and flaky services.  
-- **Productionized** with **CMake**; added **DNS-based domain labeling** and **TCP handshake metrics** (SYN→SYN/ACK RTT, fail rate) to reveal latency/reachability issues.  
-**Tech:** C++, libpcap, CMake, Wireshark
-
----
-
 ### **OpenTelemetry Observability on AWS EKS** | 2025
 - Delivered reproducible observability stack by provisioning **EKS with Terraform** (VPC, private nodes) and deploying **OpenTelemetry** via **Helm**; exposed services with LoadBalancer for **Jaeger tracing** and **Grafana** dashboards.
 - Implemented **GitHub Actions CI/CD** to deploy/rollback Helm releases and configured **Prometheus + Alertmanager → Slack** webhooks with pod-restart alerting rules.
 
 **Tech:** AWS EKS, Terraform, Helm, OpenTelemetry, Prometheus, Grafana, Jaeger, GitHub Actions
-
----
-
-### **Driver Drowsiness Detection (Real-Time)** | 2021
-- Engineered a real-time drowsiness detection system using **Python, OpenCV, and dlib** that tracked eye aspect ratio and lip distance, achieving **90%+ accuracy** in detecting yawning and fatigue.
-- Integrated pulse monitoring mechanism utilizing **Arduino IDE, NodeMCU, and pulse sensor**, transmitting real-time data to **ThingSpeak cloud**, triggering alerts when driver's pulse fell below 60 bpm.
-
-**Tech:** Python, OpenCV, dlib, Arduino, NodeMCU, ThingSpeak
 
 ---
 
