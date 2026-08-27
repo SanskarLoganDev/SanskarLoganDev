@@ -110,6 +110,7 @@
 ![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-AZ--900_Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Cisco CCST Networking](https://img.shields.io/badge/Cisco-CCST_Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![HashiCorp Terraform Associate 004](https://img.shields.io/badge/HashiCorp-Terraform_Associate_004-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 ---
 
@@ -172,7 +173,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanskarLoganDev&show_icons=true&include_all_commits=true&theme=transparent" alt="Sanskar's GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=SanskarLoganDev&theme=transparent" alt="Sanskar's GitHub Streak" />
+</p>
+
+---
+
 ## 📦 Featured Projects
+
+### **Zeitgeist — Full-Stack AI Trend Intelligence Platform** | 2026
+- Built and deployed an end-to-end trend aggregation platform using **Django REST Framework, Next.js, PostgreSQL, and GCP**, ingesting and normalizing data from **6 live external sources** and generating scheduled trend summaries with **Vertex AI Gemini**.
+- Architected production infrastructure and delivery using **Cloud Run, Cloud SQL, Cloud Scheduler, HTTPS Load Balancing, Cloud Armor, Secret Manager, Terraform, Docker, and GitHub Actions**, including automated migrations, deployments, and production smoke tests.
+
+**Tech:** Python, Django REST Framework, Next.js, PostgreSQL, Vertex AI Gemini, GCP, Cloud Run, Cloud SQL, Terraform, Docker, GitHub Actions, Cloud Scheduler, Cloud Armor
+
+---
 
 ### **AI Cargo Monitoring System — Agentic AI + LLM Orchestration + GCP** | 2026
 - Orchestrated multi-agent platform using Claude API, LangChain, and FastAPI with Pub/Sub architecture, enabling real-time anomaly detection and autonomous route optimization recommendations for temperature-sensitive vaccine/drug shipments.
